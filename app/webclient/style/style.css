@@ -1,0 +1,10 @@
+.background{
+  background-image: url("../images/login.jpg");
+  position: relative;
+  height: 700px;
+ overflow: hidden;
+ background-repeat: repeat;
+  /*background-color: GHOSTWHITE;*/
+  /*opacity:0.5;*/
+
+}
